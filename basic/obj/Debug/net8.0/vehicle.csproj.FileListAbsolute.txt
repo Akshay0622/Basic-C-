@@ -1,0 +1,14 @@
+D:\GithubAkshay0622\Basic-C-\vehicle\bin\Debug\net8.0\vehicle.exe
+D:\GithubAkshay0622\Basic-C-\vehicle\bin\Debug\net8.0\vehicle.deps.json
+D:\GithubAkshay0622\Basic-C-\vehicle\bin\Debug\net8.0\vehicle.runtimeconfig.json
+D:\GithubAkshay0622\Basic-C-\vehicle\bin\Debug\net8.0\vehicle.dll
+D:\GithubAkshay0622\Basic-C-\vehicle\bin\Debug\net8.0\vehicle.pdb
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.AssemblyInfoInputs.cache
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.AssemblyInfo.cs
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.csproj.CoreCompileInputs.cache
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.dll
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\refint\vehicle.dll
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.pdb
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\vehicle.genruntimeconfig.cache
+D:\GithubAkshay0622\Basic-C-\vehicle\obj\Debug\net8.0\ref\vehicle.dll
