@@ -1,0 +1,15 @@
+D:\GithubAkshay0622\Basic-C-\statement condition\bin\Debug\net8.0\statement condition.exe
+D:\GithubAkshay0622\Basic-C-\statement condition\bin\Debug\net8.0\statement condition.deps.json
+D:\GithubAkshay0622\Basic-C-\statement condition\bin\Debug\net8.0\statement condition.runtimeconfig.json
+D:\GithubAkshay0622\Basic-C-\statement condition\bin\Debug\net8.0\statement condition.dll
+D:\GithubAkshay0622\Basic-C-\statement condition\bin\Debug\net8.0\statement condition.pdb
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.AssemblyInfoInputs.cache
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.AssemblyInfo.cs
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.csproj.CoreCompileInputs.cache
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.sourcelink.json
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.dll
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\refint\statement condition.dll
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.pdb
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\statement condition.genruntimeconfig.cache
+D:\GithubAkshay0622\Basic-C-\statement condition\obj\Debug\net8.0\ref\statement condition.dll
