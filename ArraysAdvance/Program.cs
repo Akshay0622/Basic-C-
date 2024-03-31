@@ -27,6 +27,9 @@ namespace ArraysAdvance
 
 
 
+
+
+            Console.WriteLine("Following are result of typesof arrays");
             Console.WriteLine("Max:" + max);
             Console.WriteLine("Min:" + min);
             Console.WriteLine("Sum:"+sum);
