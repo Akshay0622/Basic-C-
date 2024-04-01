@@ -10,12 +10,14 @@ namespace Arrays
     { public static void Main(string[] args)
         {
 
-            int[] allvalue = { 40, 40, 40, 40, 40, 40 };
+//second max value
+            int[] allvalue = { 10, 40, 50, 30, 60, 70 };
 
 
             int maxvalue = int.MinValue;
             int secondMaxvalue = int.MinValue;
-
+            Console.WriteLine("we are checking min value : "+ int.MinValue);
+            
             for (int i = 0; i < allvalue.Length; i++)
             {
                 if (allvalue[i] > maxvalue)
