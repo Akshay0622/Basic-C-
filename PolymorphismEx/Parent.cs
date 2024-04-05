@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 namespace PolymorphismEx
 {
     internal class Parent
+    { 
+           public int a = 10;
+
+    public virtual void acceptPayement()
     {
+        Console.WriteLine("Accept cash payements ");
     }
+}
 }
