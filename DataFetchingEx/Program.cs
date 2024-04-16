@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Product[] product = new Product[]
+            Product[] products = new Product[]
               {
             new Product(1, "TV", 25000, "Electronic"),
             new Product(2, "Laptop", 55000, "Electronic"),
@@ -13,7 +13,9 @@
             new Product(5, "Mobile", 30000, "Electronic")
               };
 
-            Product.GetProducts("Electronic",product);
+            Product.GetProducts("Electronic",products);
+
+            Console.ReadLine();
         }
         
     }
