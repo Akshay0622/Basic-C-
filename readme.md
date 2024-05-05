@@ -19,9 +19,6 @@ Modern Features: C# continues to evolve with new language features and enhanceme
 Overall, C# is a popular choice for software development due to its combination of simplicity, power, and versatility. It is commonly used by both individual developers and large organizations to create a wide variety of applications for different platforms and purposes.
 
 
-# syllabusss
-
-
 
 
 
