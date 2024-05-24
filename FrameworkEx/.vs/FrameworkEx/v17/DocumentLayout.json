@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\frameworkex.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:frameworkex.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\frameworkex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:frameworkex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\allrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:allrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\updateex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:updateex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\readsingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:readsingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\readingbasedoncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:readingbasedoncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|d:\\githubakshay0622\\basic-csharp\\frameworkex\\deletesingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648998C-8B66-46C1-8B4A-0AB1DE8F460D}|FrameworkEx.csproj|solutionrelative:deletesingle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrameworkEx",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\FrameworkEx.csproj",
+              "RelativeDocumentMoniker": "FrameworkEx.csproj",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\FrameworkEx.csproj",
+              "RelativeToolTip": "FrameworkEx.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T16:33:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadSingle.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ReadSingle.cs",
+              "RelativeDocumentMoniker": "ReadSingle.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ReadSingle.cs",
+              "RelativeToolTip": "ReadSingle.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:25:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadingBasedOnCondition.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ReadingBasedOnCondition.cs",
+              "RelativeDocumentMoniker": "ReadingBasedOnCondition.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ReadingBasedOnCondition.cs",
+              "RelativeToolTip": "ReadingBasedOnCondition.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:25:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductContext.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\ProductContext.cs",
+              "RelativeToolTip": "ProductContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:25:33.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:25:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteSingle.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\DeleteSingle.cs",
+              "RelativeDocumentMoniker": "DeleteSingle.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\DeleteSingle.cs",
+              "RelativeToolTip": "DeleteSingle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:25:14.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllRecords.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\AllRecords.cs",
+              "RelativeDocumentMoniker": "AllRecords.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\AllRecords.cs",
+              "RelativeToolTip": "AllRecords.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:24:53.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrameworkEx",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\FrameworkEx.csproj",
+              "RelativeDocumentMoniker": "FrameworkEx.csproj",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\FrameworkEx.csproj",
+              "RelativeToolTip": "FrameworkEx.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T16:24:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEx.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\UpdateEx.cs",
+              "RelativeDocumentMoniker": "UpdateEx.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\UpdateEx.cs",
+              "RelativeToolTip": "UpdateEx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:24:27.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\FrameworkEx\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:15:58.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
