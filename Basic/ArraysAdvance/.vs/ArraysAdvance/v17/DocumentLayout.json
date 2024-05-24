@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\arrayexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:arrayexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:example3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\arraysadvance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:arraysadvance.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\searchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:searchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\twodarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:twodarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\arraysadvance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:arraysadvance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\arraysex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:arraysex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|d:\\githubakshay0622\\basic-csharp\\arraysadvance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD2B69F-9098-4E6A-8260-2CB1A603413C}|ArraysAdvance.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TwoDarrays.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\TwoDarrays.cs",
+              "RelativeDocumentMoniker": "TwoDarrays.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\TwoDarrays.cs",
+              "RelativeToolTip": "TwoDarrays.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:08:06.051Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExample1.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArrayExample1.cs",
+              "RelativeDocumentMoniker": "ArrayExample1.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArrayExample1.cs",
+              "RelativeToolTip": "ArrayExample1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwDkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:44:04.076Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchExample.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\SearchExample.cs",
+              "RelativeDocumentMoniker": "SearchExample.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\SearchExample.cs",
+              "RelativeToolTip": "SearchExample.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:26:51.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArraysAdvance",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysAdvance.csproj",
+              "RelativeDocumentMoniker": "ArraysAdvance.csproj",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysAdvance.csproj",
+              "RelativeToolTip": "ArraysAdvance.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T16:19:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JaggedArray.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\JaggedArray.cs",
+              "RelativeDocumentMoniker": "JaggedArray.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\JaggedArray.cs",
+              "RelativeToolTip": "JaggedArray.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:23:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example3.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Example3.cs",
+              "RelativeDocumentMoniker": "Example3.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Example3.cs",
+              "RelativeToolTip": "Example3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:21:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:38:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArraysAdvance.csproj",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysAdvance.csproj",
+              "RelativeDocumentMoniker": "ArraysAdvance.csproj",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysAdvance.csproj",
+              "RelativeToolTip": "ArraysAdvance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T16:19:23.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArraysEx3.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysEx3.cs",
+              "RelativeDocumentMoniker": "ArraysEx3.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\ArraysEx3.cs",
+              "RelativeToolTip": "ArraysEx3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:17:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\ArraysAdvance\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T18:21:48.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|d:\\githubakshay0622\\basic-csharp\\polymorphismex\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|solutionrelative:child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|d:\\githubakshay0622\\basic-csharp\\polymorphismex\\grandchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|solutionrelative:grandchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|d:\\githubakshay0622\\basic-csharp\\polymorphismex\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|solutionrelative:parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|d:\\githubakshay0622\\basic-csharp\\polymorphismex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|d:\\githubakshay0622\\basic-csharp\\polymorphismex\\summary.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5DABCCF-AA6C-4483-91AB-4BC3BCAAD23E}|PolymorphismEx.csproj|solutionrelative:summary.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "summary.txt",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\summary.txt",
+              "RelativeDocumentMoniker": "summary.txt",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\summary.txt",
+              "RelativeToolTip": "summary.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-04T18:21:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrandChild.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\GrandChild.cs",
+              "RelativeDocumentMoniker": "GrandChild.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\GrandChild.cs",
+              "RelativeToolTip": "GrandChild.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:05:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Child.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Child.cs",
+              "RelativeDocumentMoniker": "Child.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Child.cs",
+              "RelativeToolTip": "Child.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:04:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Parent.cs",
+              "RelativeDocumentMoniker": "Parent.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Parent.cs",
+              "RelativeToolTip": "Parent.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:04:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\PolymorphismEx\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:04:10.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

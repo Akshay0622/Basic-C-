@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|d:\\githubakshay0622\\basic-csharp\\multithreadingex\\multithreadingex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|solutionrelative:multithreadingex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|d:\\githubakshay0622\\basic-csharp\\multithreadingex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|d:\\githubakshay0622\\basic-csharp\\multithreadingex\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C317CCCE-BA30-4074-933D-45C1C9B0269E}|MultithreadingEx.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultithreadingEx",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\MultithreadingEx.csproj",
+              "RelativeDocumentMoniker": "MultithreadingEx.csproj",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\MultithreadingEx.csproj*",
+              "RelativeToolTip": "MultithreadingEx.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T08:44:38.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:37:12.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GithubAkshay0622\\Basic-CSharp\\MultithreadingEx\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:23:24.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
